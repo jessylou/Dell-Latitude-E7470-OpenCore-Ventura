@@ -1,1 +1,1 @@
-# DELL-Latitude-E7470-OpenCore-Ventura
+# DELL Latitude E7470 OpenCore Ventura
