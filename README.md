@@ -1,4 +1,4 @@
-## Special Note: this repository is not fully finished. But the EFI folder renames usable.
+## Special Note: this repository is not fully finished. But the EFI folder remains usable.
 
 # DELL Latitude E7470 OpenCore & Ventura
 
