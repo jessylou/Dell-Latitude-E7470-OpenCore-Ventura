@@ -31,7 +31,7 @@
 | Model              | Dell Latitude E7470                        |
 |:-------------------|:-------------------------------------------|
 | Processor          | Intel Core i5-6300U @ 2.40GHz 3MB L3 cache |
-| Graphics           | Integrated Intel HD Graphics 5500 64 MB    |
+| Graphics           | Integrated Intel HD Graphics 520 32 MB     |
 | Memory             | 16GB 2133MHz DDR4 SDRAM (Dual channel)     |
 | Display            | 14" FHD (1920x1000) - Non-Touch LCD        |
 | Storage            | 512GB M.2 SATA SSD                         |
