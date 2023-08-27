@@ -31,14 +31,17 @@
 | Model              | Dell Latitude E7470                        |
 |:-------------------|:-------------------------------------------|
 | Processor          | Intel Core i5-6300U @ 2.40GHz 3MB L3 cache |
-| Graphics           | Integrated Intel HD Graphics 520 64 MB     |
+| Graphics           | Integrated Intel HD Graphics 5500 64 MB    |
 | Memory             | 16GB 2133MHz DDR4 SDRAM (Dual channel)     |
 | Display            | 14" FHD (1920x1000) - Non-Touch LCD        |
 | Storage            | 512GB M.2 SATA SSD                         |
-| Audio              | RealTek ALC3235                            |
+| Audio              | RealTek ALC3235 24-bits                    |
 | WLAN + Bluetooth   | Intel® Tri-Band Wireless-AC 18260 867 Mbps |
-| Camera             | 1920x1080 FHD Webcam                       |
-| Fingerprint Reader | No                                         |
+| LAN                | Ethernet 10/100/1000 Mb/s (RJ-45)          |
+| Camera             | 1280x720 FHD Webcam                        |
+| Fingerprint Reader | Yes                                        |
+| USB 3.0            | USB 3.0 x 2 ports, 1 PowerShare port       |
+| SD Card            | SD 4.0                                     |
 | Keyboard           | Backlit Keyboard                           |
 | Trackpad           | ALPS Touchpad                              |
 
