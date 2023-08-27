@@ -96,6 +96,7 @@
 </br>
 
 - [ ] [Multitouch gestures for ALPS touchpad.](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1)
+- [ ]  Smart Card reader
 
 </details>
 
