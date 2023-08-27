@@ -55,36 +55,20 @@
 - [x] Speakers and headphones jack
 - [x] Intel Gigabit Ethernet
 - [x] iMessage, FaceTime, App Store
-- [x] miniDP and HDMI with digital audio passthrough(If you experience cursor lags, try turning on and off one of the displays.)
+- [x] miniDP and HDMI with digital audio passthrough (if you experience cursor lags, try turning on and off one of the displays).
 - [x] Keyboard and Trackpad(two finger vertical swipes)
-- [x] DRM(Works with Google Chrome. Tested with Prime Video and Netflix.)
+- [x] DRM (Works with Google Chrome. Tested with Prime Video and Netflix.)
 - [x] SD Card Reader using [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
 
 <hr>
 
-- [x] Intel HD 520 Graphics **`including graphics acceleration`**
-- [x] All USB ports
-- [x] Internal camera
-- [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
 - [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext) and BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
-- [x] Shutdown/Reboot/Sleep/Wake
-- [x] Speakers and headphones jack
-- [x] Intel Gigabit Ethernet
-- [x] iMessage, FaceTime, App Store
-- [x] miniDP and HDMI with digital audio passthrough (If you experience cursor lags, try turning on and off one of the displays.)
-- [x] Keyboard and Trackpad (two finger vertical swipes)
-- [x] DRM (Works with Google Chrome. Tested with Netflix.)
-- [x] SD Card Reader using [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
 
 </details>
 
 <details>
 <summary><strong>What's not working</strong></summary>
 </br>
-
-- [ ] Multitouch gestures for ALPS touchpad.([#1](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1))
-
-<hr>
 
 - [ ] [Multitouch gestures for ALPS touchpad.](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1)
 
