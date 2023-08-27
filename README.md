@@ -1,5 +1,7 @@
 # DELL Latitude E7470 OpenCore & Ventura
 
+<img align="right" src="https://imgur.com/25u1lIk.jpg" width="300">
+
 <a ref="https://github.com/acidanthera/OpenCorePkg"><img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"><a/>
 
 ## Introduction
@@ -172,5 +174,6 @@ where `REL` means a RELEASE version of OC, `093` means version 0.7.4, and `2023-
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) and others whose kexts I've used.
 - [Dortania](https://dortania.github.io) for installation and other guides.
 - [Aditya Bakare](https://github.com/adityabakare) - [Big Sur](https://github.com/adityabakare/macOS-Dell-Latitude-E7470)
-- [Yosef-y053f01](https://github.com/y053f01)
+- [Yosef-y053f01](https://github.com/y053f01) - [Monterey](https://github.com/y053f01/macOS-Monterey-Dell-Latitude-E7470)
+- [Smuger12](https://github.com/Smuger12) - [Monterey](https://github.com/Smuger12/Hackintosh_Dell_Latitude_E7470)
 - Everyone else who contributed to this repository directly/indirectly.
