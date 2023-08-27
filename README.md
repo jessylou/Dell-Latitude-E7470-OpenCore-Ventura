@@ -40,6 +40,8 @@
 
 </details>
 
+## Status
+
 <details>
 <summary><strong>What's working</strong></summary>
 </br>
@@ -87,5 +89,3 @@
 - [ ] [Multitouch gestures for ALPS touchpad.](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1)
 
 </details>
-
-## Status
