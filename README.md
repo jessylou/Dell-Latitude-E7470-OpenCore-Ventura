@@ -1,3 +1,5 @@
+## Special Note: this repository is not fully finished. But the EFI folder renames usable.
+
 # DELL Latitude E7470 OpenCore & Ventura
 
 <img align="right" src="https://imgur.com/25u1lIk.jpg" width="300">
