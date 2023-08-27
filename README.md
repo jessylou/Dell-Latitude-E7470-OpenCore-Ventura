@@ -42,6 +42,7 @@
 | Fingerprint Reader | Yes                                        |
 | USB 3.0            | USB 3.0 x 2 ports, 1 PowerShare port       |
 | SD Card            | SD 4.0                                     |
+| Smart Card         | Yes                                        |
 | Keyboard           | Backlit Keyboard                           |
 | Trackpad           | ALPS Touchpad                              |
 
