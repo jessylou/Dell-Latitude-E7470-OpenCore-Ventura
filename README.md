@@ -28,6 +28,8 @@
 <summary><strong>My Hardware</strong></summary>
 <br>
 
+This DELL Latitude E7470 has been build in 2016.
+
 | Model              | Dell Latitude E7470                        |
 |:-------------------|:-------------------------------------------|
 | Processor          | Intel Core i5-6300U @ 2.40GHz 3MB L3 cache |
