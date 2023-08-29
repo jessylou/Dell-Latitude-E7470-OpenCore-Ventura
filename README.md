@@ -77,23 +77,6 @@ To get more:
 
 <hr>
 
-- [x] Intel HD 520 Graphics `incuding graphics acceleration`
-- [x] All USB ports
-- [x] Internal camera
-- [x] AirDrop* using [NGFF(M.2) Model BCM94360NG Hackintosh Card](https://www.amazon.com/Hackintosh-M-2-NGFF-BCM94360NG-Continuity/dp/B083YXS7VF)
-- [x] WiFi using [NGFF(M.2) Model BCM94360NG Hackintosh Card](https://www.amazon.com/Hackintosh-M-2-NGFF-BCM94360NG-Continuity/dp/B083YXS7VF)
-- [x] Bluetooth using [NGFF(M.2) Model BCM94360NG Hackintosh Card](https://www.amazon.com/Hackintosh-M-2-NGFF-BCM94360NG-Continuity/dp/B083YXS7VF)
-- [x] Shutdown/ Reboot/ Sleep/ Wake
-- [x] Speakers and headphones jack
-- [x] Intel Gigabit Ethernet
-- [x] iMessage, FaceTime, App Store
-- [x] miniDP and HDMI with digital audio passthrough(If you experience cursor lags, try turning on and off one of the displays.)
-- [x] Keyboard and Trackpad(two finger vertical swipes)
-- [x] DRM(Works with Google Chrome. Tested with Prime Video and Netflix.)
-- [x] SD Card Reader using [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
-
-<hr>
-
 - [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext) and BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
 
 </details>
@@ -102,8 +85,9 @@ To get more:
 <summary><strong>What's not working</strong></summary>
 </br>
 
+- [ ] AirDrop*
 - [ ] [Multitouch gestures for ALPS touchpad.](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1)
-- [ ]  Smart Card reader
+- [ ] Smart Card reader
 
 </details>
 
