@@ -4,6 +4,8 @@
 
 <img align="right" src="https://imgur.com/25u1lIk.jpg" width="300">
 
+<img align="right" src="[https://imgur.com/25u1lIk.jpg](https://github.com/jessylou/DELL-Latitude-E7470-OpenCore-Ventura/blob/main/img/E7470-Ventura.png)" width="300">
+
 <a ref="https://github.com/acidanthera/OpenCorePkg"><img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"><a/>
 
 ## Introduction
