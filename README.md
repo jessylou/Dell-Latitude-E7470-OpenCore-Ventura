@@ -46,6 +46,10 @@
 | Keyboard           | Backlit Keyboard                           |
 | Trackpad           | ALPS Touchpad                              |
 
+To get more:
+
+- [Intel Processor & Graphics](https://ark.intel.com/content/www/us/en/ark/products/88190/intel-core-i56300u-processor-3m-cache-up-to-3-00-ghz.html)
+
 </details>
 
 ## Status
