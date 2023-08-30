@@ -79,7 +79,7 @@ To get more:
 <summary><strong>What's not working</strong></summary>
 </br>
 
-- [ ] AirDrop*
+- [ ] AirDrop
 - [ ] [Multitouch gestures for ALPS touchpad.](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1)
 - [ ] Smart Card reader
 
