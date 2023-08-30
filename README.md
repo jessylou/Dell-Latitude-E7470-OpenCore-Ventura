@@ -1,5 +1,3 @@
-## Special Note: this repository is not fully finished. But the EFI folder remains usable.
-
 # DELL Latitude E7470 OpenCore & Ventura
 
 <img align="right" src="https://github.com/jessylou/DELL-Latitude-E7470-OpenCore-Ventura/blob/main/img/E7470-Ventura.png">
@@ -65,7 +63,7 @@ To get more:
 - [x] All USB ports
 - [x] Internal camera
 - [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
-- [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext) and BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and with [BlueToothFixup.kext]().
+- [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext), with BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and [BlueToothFixup.kext]().
 - [x] Shutdown/ Reboot/ Sleep/ Wake
 - [x] Speakers and headphones jack
 - [x] Intel Gigabit Ethernet
