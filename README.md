@@ -1,4 +1,4 @@
-# DELL Latitude E7470 OpenCore & Ventura
+# Dell Latitude E7470 OpenCore & Ventura
 
 <img align="right" src="https://github.com/jessylou/DELL-Latitude-E7470-OpenCore-Ventura/blob/main/img/E7470-Ventura.png">
 
