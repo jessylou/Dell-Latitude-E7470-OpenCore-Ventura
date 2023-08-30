@@ -63,7 +63,7 @@ To get more:
 - [x] All USB ports
 - [x] Internal camera
 - [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
-- [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext), with BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and [BlueToothFixup.kext]().
+- [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext), with BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and BlueToothFixup.kext from the same source.
 - [x] Shutdown/ Reboot/ Sleep/ Wake
 - [x] Speakers and headphones jack
 - [x] Intel Gigabit Ethernet
@@ -72,10 +72,6 @@ To get more:
 - [x] Keyboard and Trackpad(two finger vertical swipes)
 - [x] DRM (Works with Google Chrome. Tested with Prime Video and Netflix.)
 - [x] SD Card Reader using [RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader) with [RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend).
-
-<hr>
-
-- [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext) and BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
 
 </details>
 
