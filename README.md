@@ -85,18 +85,9 @@ To get more:
 
 </details>
 
-<details>
-<summary><strong>Make Bluetooth + Wi-Fi work while you're using original Hardware</strong></summary>
-</br>
-
-* WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
-* Bluetooth using [IntelBluetoothFirmware and IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-
-</details>
-
 ## Current configuration
 
-Up to date on August 20, 2023.
+Up to date on August 20th, 2023.
 - macOS: Ventura 13.5
 - OpenCore: 0.9.3
 
