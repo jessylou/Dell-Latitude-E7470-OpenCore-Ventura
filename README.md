@@ -73,7 +73,7 @@ To get more:
 - [x] miniDP and HDMI with digital audio passthrough (if you experience cursor lags, try turning on and off one of the displays).
 - [x] Keyboard and Trackpad(two finger vertical swipes)
 - [x] DRM (Works with Google Chrome. Tested with Prime Video and Netflix.)
-- [x] SD Card Reader using [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
+- [x] SD Card Reader using [RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader) with [RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend).
 
 <hr>
 
