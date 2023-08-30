@@ -65,7 +65,7 @@ To get more:
 - [x] All USB ports
 - [x] Internal camera
 - [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
-- [x] Bluetooth using [IntelBluetoothFirmware and IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext) and BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and with [BlueToothFixup.kext]().
 - [x] Shutdown/ Reboot/ Sleep/ Wake
 - [x] Speakers and headphones jack
 - [x] Intel Gigabit Ethernet
