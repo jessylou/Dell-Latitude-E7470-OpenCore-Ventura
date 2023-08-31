@@ -87,6 +87,8 @@ To get more:
 
 ## Current configuration
 
+- Update on August 30th, 2023: macOS update to 13.5.1 with Apple standard procédure.
+
 Up to date on August 20th, 2023.
 - macOS: Ventura 13.5
 - OpenCore: 0.9.3
