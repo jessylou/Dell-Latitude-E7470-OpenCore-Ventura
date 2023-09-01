@@ -26,7 +26,7 @@
 <summary><strong>My Hardware</strong></summary>
 <br>
 
-This DELL Latitude E7470 has been build in 2016.
+This Dell Latitude E7470 has been build in 2016.
 
 | Model              | Dell Latitude E7470                        |
 |:-------------------|:-------------------------------------------|
@@ -48,7 +48,7 @@ This DELL Latitude E7470 has been build in 2016.
 
 To get more:
 
-- [DELL Latitude E7470](https://www.dell.com/support/manuals/fr-fr/latitude-e7470-ultrabook/late_e7470_om/caract%C3%A9ristiques?guid=guid-5a37743b-091b-4716-9574-f99f29e7bf1c&lang=en-us)
+- [Dell Latitude E7470](https://www.dell.com/support/manuals/fr-fr/latitude-e7470-ultrabook/late_e7470_om/caract%C3%A9ristiques?guid=guid-5a37743b-091b-4716-9574-f99f29e7bf1c&lang=en-us)
 - [Intel Processor & Graphics](https://ark.intel.com/content/www/us/en/ark/products/88190/intel-core-i56300u-processor-3m-cache-up-to-3-00-ghz.html)
 
 </details>
