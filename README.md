@@ -59,18 +59,19 @@ To get more:
 <summary><strong>What's working</strong></summary>
 </br>
 
-- [x] Intel HD 520 Graphics `incuding graphics acceleration`
-- [x] All USB ports
-- [x] Internal camera
-- [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
+- [x] Intel HD 520 Graphics `incuding graphics acceleration`.
+- [x] All USB ports.
+- [x] Internal camera.
+- [x] WiFi using [AirportItlwm](https://github.com/OpenIntelWireless/itlwm).
 - [x] Bluetooth using [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) (without IntelBluetoothInjector.kext), with BlueToolFixup.kext from: [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and BlueToothFixup.kext from the same source.
-- [x] Shutdown/ Reboot/ Sleep/ Wake
-- [x] Speakers and headphones jack
-- [x] Intel Gigabit Ethernet
-- [x] iMessage, FaceTime, App Store
+- [x] Shutdown/ Reboot/ Sleep/ Wake.
+- [x] Speakers and headphones jack.
+- [x] Intel Gigabit Ethernet.
+- [x] iMessage, FaceTime, App Store.
 - [x] miniDP and HDMI with digital audio passthrough (if you experience cursor lags, try turning on and off one of the displays).
-- [x] Keyboard and Trackpad(two finger vertical swipes)
-- [x] DRM (Works with Google Chrome. Tested with Prime Video and Netflix.)
+- [x] Keyboard and Trackpad(two finger vertical swipes).
+- [x] DRM (Works with Google Chrome. Tested with Prime Video and Netflix).
+- [x] Multitouch gestures for ALPS touchpad.
 - [x] SD Card Reader using [RealtekCardReader.kext](https://github.com/0xFireWolf/RealtekCardReader) with [RealtekCardReaderFriend.kext](https://github.com/0xFireWolf/RealtekCardReaderFriend).
 
 </details>
@@ -80,7 +81,6 @@ To get more:
 </br>
 
 - [ ] AirDrop
-- [ ] [Multitouch gestures for ALPS touchpad.](https://github.com/adityabakare/macOS-Dell-Latitude-E7470/issues/1)
 - [ ] Smart Card reader
 
 </details>
