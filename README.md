@@ -87,6 +87,7 @@ To get more:
 
 ## Current configuration
 
+- Update on September 8th, 2023: macOS update to 13.5.2 with Apple standard procédure.
 - Update on August 30th, 2023: macOS update to 13.5.1 with Apple standard procédure.
 
 Up to date on August 20th, 2023.
