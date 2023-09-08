@@ -1,6 +1,6 @@
 # Dell Latitude E7470 OpenCore & Ventura
 
-<img align="right" src="https://github.com/jessylou/DELL-Latitude-E7470-OpenCore-Ventura/blob/main/img/E7470-Ventura 13.5.1.png">
+<img align="right" src="https://github.com/jessylou/DELL-Latitude-E7470-OpenCore-Ventura/blob/main/img/E7470-Ventura 13.5.2.png">
 
 <a ref="https://github.com/acidanthera/OpenCorePkg"><img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"><a/>
 
