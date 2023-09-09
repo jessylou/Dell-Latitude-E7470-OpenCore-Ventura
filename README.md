@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="LsLqns0ZLVPkgXRrhkwggGH3nzaLZuEcngMRyL7YlOQ" />
-
 # Dell Latitude E7470 OpenCore & Ventura
 
 <img align="right" src="https://github.com/jessylou/DELL-Latitude-E7470-OpenCore-Ventura/blob/main/img/E7470-Ventura 13.5.2.png">
