@@ -31,6 +31,7 @@ This Dell Latitude E7470 has been build in 2016.
 | Model              | Dell Latitude E7470                        |
 |:-------------------|:-------------------------------------------|
 | Processor          | Intel Core i5-6300U @ 2.40GHz 3MB L3 cache |
+| Processor Family   | Skylake - 6th generetion - 14 nm - Q3'15   |
 | Graphics           | Integrated Intel HD Graphics 520 32 MB     |
 | Memory             | 16GB 2133MHz DDR4 SDRAM (Dual channel)     |
 | Display            | 14" FHD (1920x1000) - Non-Touch LCD        |
