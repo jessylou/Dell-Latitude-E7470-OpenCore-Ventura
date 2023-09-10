@@ -37,7 +37,7 @@ This Dell Latitude E7470 has been build in 2016.
 | Display            | 14" FHD (1920x1000) - Non-Touch LCD        |
 | Storage            | 512GB M.2 SATA SSD                         |
 | Audio              | RealTek ALC3235 24-bits                    |
-| WLAN + Bluetooth   | Intel® Tri-Band Wireless-AC 18260 867 Mbps |
+| WLAN + Bluetooth   | Intel® Tri-Band Wireless-AC 18260 + BT 4.0 |
 | LAN                | Ethernet 10/100/1000 Mb/s (RJ-45)          |
 | Camera             | 1280x720 FHD Webcam                        |
 | Fingerprint Reader | Yes                                        |
